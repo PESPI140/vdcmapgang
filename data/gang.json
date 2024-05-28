@@ -7,12 +7,20 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -74.287, "lng": -9.980},
-			{"lat": -74.942, "lng": -7.049},
-			{"lat": -74.239, "lng": -4.772},
-			{"lat": -73.644, "lng": -7.340},
-			{"lat": -74.075, "lng": -8.726},
-			{"lat": -74.142, "lng": -9.380}
+			{"lat": -71.056, "lng": -10.482},
+			{"lat": -70.433, "lng": -9.054},
+			{"lat": -70.039, "lng": -8.823},
+			{"lat": -69.741, "lng": -8.812},
+			{"lat": -69.722, "lng": -9.087},
+			{"lat": -69.817, "lng": -9.867},
+			{"lat": -69.953, "lng": -10.833},
+			{"lat": -70.054, "lng": -11.526},
+			{"lat": -70.084, "lng": -11.965},
+			{"lat": -70.069, "lng": -12.613},
+			{"lat": -70.167, "lng": -12.558},
+			{"lat": -70.371, "lng": -12.196},
+			{"lat": -70.543, "lng": -11.954},
+			{"lat": -70.838, "lng": -11.602}
 		]
 	},
 	{
@@ -52,16 +60,6 @@
             {"lat": -73.665, "lng": -23.516},
             {"lat": -72.088, "lng": -19.736}
 
-		]
-	},
-	{
-		"title": "52 Hoover Gangster Crips (5️⃣2️⃣♿🍊) ",
-		"notes": "Également connus sous le nom de Young Hoggs, ils sont le berceau du rappeur ScHoolBoy Q. Ils se sont regroupés avec 51TGC pour former 512GC et sont connus pour être le seul groupe de Hoover à revendiquer le Crip, tout en restant alliés au reste des Hoover. Le 43HCG était autrefois actif dans la zone située au nord de Vernon Avenue, aujourd'hui contrôlée par la clique Darcside des Rollin' 40's, qui sont les principaux rivaux du 52HGC. Bien qu'il soit depuis longtemps considéré comme inactif, le 43HCG est toujours revendiqué par les membres du HCG/HGC comme faisant partie de la grande carte 716/Hoover. Les autres adversaires sont les Rollin' 40's, 30's, 50's, 60's, 70's, 90's, 100's, HPB, et parfois STV43. Beaucoup de leurs jeunes membres sont d'origine hispanique (MOB). Rappeurs : ScHoolboy Q, T Rell, H Crown, SoTattedSharky, Swift Chapo, BMG Boca, BMG Dmack",
-		"order": 0,
-		"strokecolor": "ff822e",
-		"fillcolor": "ff822e",
-		"latlngarray": [
-			{"lat": -72.143, "lng": -12.853}
 		]
 	},
 	{
