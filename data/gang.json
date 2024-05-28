@@ -79,6 +79,90 @@
 			{"lat": -76.558, "lng": -6.678},
 			{"lat": -76.272, "lng": -5.700}
 		]
+	},
+	{
+		"title": "Image 2",
+		"notes": "4",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -75.040, "lng": -0.396},
+			{"lat": -74.955, "lng": -0.583},
+			{"lat": -74.854, "lng": -1.023},
+			{"lat": -74.620, "lng": -0.210},
+			{"lat": -74.409, "lng": -0.407},
+			{"lat": -74.447, "lng": 0.724},
+			{"lat": -74.791, "lng": 0.669},
+			{"lat": -75.006, "lng": 0.076}
+		]
+	},
+	{
+		"type": "Image 2",
+		"title": "3",
+		"notes": "<edit this>",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.765, "lng": -1.402},
+			{"lat": -74.576, "lng": -0.786},
+			{"lat": -74.379, "lng": -0.940},
+			{"lat": -74.242, "lng": -0.743},
+			{"lat": -74.137, "lng": -1.698},
+			{"lat": -74.411, "lng": -2.028},
+			{"lat": -74.535, "lng": -2.434}
+		]
+	},
+	{
+		"title": "Image 2",
+		"notes": "5",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.242, "lng": -0.743},
+			{"lat": -74.137, "lng": -1.698},
+			{"lat": -74.005, "lng": -0.446},
+			{"lat": -73.811, "lng": -0.029},
+			{"lat": -73.703, "lng": -0.435},
+			{"lat": -73.905, "lng": -1.073},
+			{"lat": -74.021, "lng": -1.424}
+		]
+	},
+	{
+		"title": "image 2",
+		"notes": "1",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.137, "lng": -1.698},
+			{"lat": -73.706, "lng": -0.446},
+			{"lat": -73.911, "lng": -1.106},
+			{"lat": -74.021, "lng": -1.424},
+			{"lat": -73.511, "lng": -1.270},
+			{"lat": -73.951, "lng": -2.545}
+		]
+	},
+	{
+		"title": "image 2",
+		"notes": "2",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.137, "lng": -1.698},
+			{"lat": -73.951, "lng": -2.545},
+			{"lat": -74.391, "lng": -2.138},
+			{"lat": -74.512, "lng": -2.556},
+			{"lat": -74.273, "lng": -3.566}
+		]
 	}
 
 ]
