@@ -167,7 +167,7 @@
 	{
 		"title": "image 3",
 		"notes": "1",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -181,7 +181,7 @@
 	{
 		"title": "image 3",
 		"notes": "2",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -195,7 +195,7 @@
 	{
 		"title": "image 3",
 		"notes": "3",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -212,7 +212,7 @@
 	{
 		"title": "image 1",
 		"notes": "5",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -229,7 +229,7 @@
 	{
 		"title": "image 1",
 		"notes": "2",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -247,7 +247,7 @@
 	{
 		"title": "image 1",
 		"notes": "4",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -265,7 +265,7 @@
 	{
 		"title": "image 1",
 		"notes": "3",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -281,7 +281,7 @@
 	{
 		"title": "image 1",
 		"notes": "7",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -298,7 +298,7 @@
 	{
 		"title": "image 1",
 		"notes": "8",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -317,7 +317,7 @@
 	{
 		"title": "image 1",
 		"notes": "7",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -332,7 +332,7 @@
 	{
 		"title": "image 1",
 		"notes": "9",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -345,5 +345,5 @@
 		]
 	}
  
-	
+
 ]
