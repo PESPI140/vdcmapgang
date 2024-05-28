@@ -63,5 +63,22 @@
 		"latlngarray": [
 			{"lat": -72.143, "lng": -12.853}
 		]
+	},
+	{
+		"title": "WATTS 1",
+		"notes": "soon...",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "8300FF",
+		"fillcolor": "8300FF",
+		"latlngarray": [
+			{"lat": -76.187, "lng": -6.144},
+			{"lat": -76.611, "lng": -7.715},
+			{"lat": -76.891, "lng": -6.513},
+			{"lat": -76.821, "lng": -6.315},
+			{"lat": -76.558, "lng": -6.678},
+			{"lat": -76.272, "lng": -5.700}
+		]
 	}
+
 ]
