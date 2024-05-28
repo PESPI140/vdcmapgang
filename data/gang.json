@@ -163,6 +163,186 @@
 			{"lat": -74.512, "lng": -2.556},
 			{"lat": -74.273, "lng": -3.566}
 		]
+	},
+	{
+		"title": "image 3",
+		"notes": "1",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.406, "lng": -4.004},
+			{"lat": -75.105, "lng": -6.278},
+			{"lat": -75.321, "lng": -5.322},
+			{"lat": -74.643, "lng": -2.938}
+		]
+	},
+	{
+		"title": "image 3",
+		"notes": "2",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.892, "lng": -1.829},
+			{"lat": -75.512, "lng": -4.410},
+			{"lat": -75.321, "lng": -5.322},
+			{"lat": -74.643, "lng": -2.938}
+		]
+	},
+	{
+		"title": "image 3",
+		"notes": "3",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.986, "lng": -1.433},
+			{"lat": -75.051, "lng": -1.104},
+			{"lat": -75.365, "lng": -0.499},
+			{"lat": -75.580, "lng": -2.346},
+			{"lat": -75.616, "lng": -2.704},
+			{"lat": -75.690, "lng": -3.572},
+			{"lat": -75.603, "lng": -3.945}
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "5",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -76.254, "lng": -2.539},
+			{"lat": -76.546, "lng": -1.331},
+			{"lat": -76.582, "lng": -1.529},
+			{"lat": -76.784, "lng": -2.287},
+			{"lat": -76.559, "lng": -3.429},
+			{"lat": -76.515, "lng": -3.232},
+			{"lat": -76.353, "lng": -2.924}
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "2",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -76.273, "lng": -5.675},
+			{"lat": -76.519, "lng": -4.346},
+			{"lat": -76.638, "lng": -4.774},
+			{"lat": -76.812, "lng": -4.840},
+			{"lat": -77.024, "lng": -5.763},
+			{"lat": -76.890, "lng": -6.444},
+			{"lat": -76.817, "lng": -6.313},
+			{"lat": -76.565, "lng": -6.642}
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "4",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -76.519, "lng": -4.346},
+			{"lat": -76.638, "lng": -4.774},
+			{"lat": -76.812, "lng": -4.840},
+			{"lat": -76.742, "lng": -4.379},
+			{"lat": -76.511, "lng": -3.489},
+			{"lat": -76.216, "lng": -2.984},
+			{"lat": -76.181, "lng": -3.511},
+			{"lat": -76.413, "lng": -3.961}
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "3",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -76.367, "lng": -3.929},
+			{"lat": -76.181, "lng": -3.511},
+			{"lat": -76.434, "lng": -4.170},
+			{"lat": -76.110, "lng": -5.928},
+			{"lat": -75.753, "lng": -4.610},
+			{"lat": -76.081, "lng": -3.247}
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "7",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -76.189, "lng": -6.909},
+			{"lat": -76.046, "lng": -7.766},
+			{"lat": -76.136, "lng": -7.985},
+			{"lat": -76.353, "lng": -8.886},
+			{"lat": -76.392, "lng": -8.919},
+			{"lat": -76.420, "lng": -8.623},
+			{"lat": -76.518, "lng": -8.117}
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "8",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -76.046, "lng": -7.766},
+			{"lat": -76.136, "lng": -7.985},
+			{"lat": -76.353, "lng": -8.886},
+			{"lat": -76.371, "lng": -9.106},
+			{"lat": -76.327, "lng": -10.040},
+			{"lat": -76.225, "lng": -9.996},
+			{"lat": -76.007, "lng": -9.315},
+			{"lat": -75.695, "lng": -8.227},
+			{"lat": -75.881, "lng": -7.326}
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "7",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -76.046, "lng": -7.766},
+			{"lat": -75.881, "lng": -7.326},
+			{"lat": -75.482, "lng": -5.865},
+			{"lat": -75.652, "lng": -5.019},
+			{"lat": -76.170, "lng": -6.865}
+		]
+	},
+	{
+		"title": "image 1",
+		"notes": "9",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -75.881, "lng": -7.326},
+			{"lat": -75.482, "lng": -5.865},
+			{"lat": -75.277, "lng": -6.810},
+			{"lat": -75.673, "lng": -8.172},
+			{"lat": -75.771, "lng": -7.634}
+		]
 	}
 
 ]
