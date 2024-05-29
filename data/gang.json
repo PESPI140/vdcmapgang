@@ -81,7 +81,7 @@
 	{
 		"type": "Image 2",
 		"title": "3",
-		"notes": "<edit this>",
+		"notes": "Free",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -338,10 +338,9 @@
 		]
 	},
 	{
-		"type": "Territories",
-		"title": "<edit this>",
-		"notes": "<edit this>",
-		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"title": "Free",
+		"notes": "Free",
+		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
 		"fillcolor": "000000",
@@ -359,6 +358,51 @@
 			{"lat": -72.454, "lng": -18.975},
 			{"lat": -73.037, "lng": -20.535},
 			{"lat": -73.824, "lng": -20.524}
+		]
+	},
+	{
+		"title": "Free",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -72.402, "lng": -17.839},
+			{"lat": -71.986, "lng": -16.675},
+			{"lat": -71.941, "lng": -14.762},
+			{"lat": -72.239, "lng": -13.619},
+			{"lat": -72.952, "lng": -15.641}
+		]
+	},
+	{
+		"title": "Frre",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -72.263, "lng": -18.401},
+			{"lat": -71.908, "lng": -19.763},
+			{"lat": -71.595, "lng": -18.972},
+			{"lat": -71.543, "lng": -18.643},
+			{"lat": -71.512, "lng": -18.335},
+			{"lat": -71.498, "lng": -18.061},
+			{"lat": -71.505, "lng": -17.720},
+			{"lat": -71.505, "lng": -17.335},
+			{"lat": -71.501, "lng": -16.435},
+			{"lat": -71.501, "lng": -16.039},
+			{"lat": -71.442, "lng": -15.116},
+			{"lat": -71.428, "lng": -14.259},
+			{"lat": -71.417, "lng": -13.534},
+			{"lat": -71.302, "lng": -13.183},
+			{"lat": -71.064, "lng": -13.084},
+			{"lat": -71.068, "lng": -11.798},
+			{"lat": -71.245, "lng": -10.919},
+			{"lat": -72.071, "lng": -13.172},
+			{"lat": -71.733, "lng": -14.534},
+			{"lat": -71.785, "lng": -16.984}
 		]
 	}
 ]
