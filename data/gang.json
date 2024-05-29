@@ -327,8 +327,8 @@
 		"notes": "Free",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "bcbcbc",
-		"fillcolor": "bcbcbc",
+		"strokecolor": "000000",
+		"fillcolor": "000000",
 		"latlngarray": [
 			{"lat": -72.595, "lng": -18.422},
 			{"lat": -73.145, "lng": -16.192},
@@ -336,7 +336,29 @@
 			{"lat": -73.734, "lng": -19.829},
 			{"lat": -73.104, "lng": -19.862}
 		]
+	},
+	{
+		"type": "Territories",
+		"title": "<edit this>",
+		"notes": "<edit this>",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -74.145, "lng": -19.217},
+			{"lat": -74.300, "lng": -19.678},
+			{"lat": -74.363, "lng": -19.909},
+			{"lat": -74.061, "lng": -21.326},
+			{"lat": -73.997, "lng": -21.546},
+			{"lat": -73.979, "lng": -21.743},
+			{"lat": -73.716, "lng": -21.721},
+			{"lat": -73.386, "lng": -21.688},
+			{"lat": -72.896, "lng": -21.688},
+			{"lat": -72.234, "lng": -19.821},
+			{"lat": -72.454, "lng": -18.975},
+			{"lat": -73.037, "lng": -20.535},
+			{"lat": -73.824, "lng": -20.524}
+		]
 	}
- 
-
 ]
