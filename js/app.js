@@ -394,7 +394,7 @@ $(function() {
 				function(type) {
 					var mapTypeOptions = {
 						minZoom: 1,
-						maxZoom: 7,
+						maxZoom: 6,
 						name: type,
 						getTileUrl: this.getTileImage,
 					};
