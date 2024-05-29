@@ -92,8 +92,8 @@
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
+		"strokecolor": "A7FFA7",
+		"fillcolor": "A7FFA7",
 		"latlngarray": [
 			{"lat": -70.724, "lng": -4.978},
 			{"lat": -71.513, "lng": -2.066},
@@ -106,8 +106,8 @@
 		"notes": "Downtown Medical Center est le principal hôpital de Los Angeles. Downtown est le centre de la médecine supérieure de la ville de Los Angeles. Il abrite les services médicaux d'urgence, mais ceux-ci ne sont pas détenus ou financés par l'hôpital. Ils travaillent avec les autres agences gouvernementales de la ville et leur fournissent régulièrement les services médicaux supérieurs nécessaires.",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
+		"strokecolor": "A7FFA7",
+		"fillcolor": "A7FFA7",
 		"latlngarray": [
 			{"lat": -61.606, "lng": -6.451},
 			{"lat": -61.663, "lng": -5.034},
@@ -119,12 +119,12 @@
 		]
 	},
 	{
-		"title": "El Burro Heights Fire Station",
-		"notes": "El Burro Heights Fire Station is an official office of EMS.",
+		"title": "Signal Hill Fire Station",
+		"notes": "La caserne de pompiers de Signal Hill est un bureau officiel des EMS.",
 		"wiki_ling": "",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "A7FFA7",
+		"fillcolor": "A7FFA7",
 		"latlngarray": [
 			{"lat": -71.716, "lng": 21.124},
 			{"lat": -71.735, "lng": 18.447},
@@ -134,11 +134,11 @@
 	},
 	{
 		"title": "Viceroy Medical Center",
-		"notes": "Viceroy Medical Center is a secondary hospital in Los Santos.",
-		"wiki_ling": "https://nopixel.fandom.com/wiki/Viceroy_Medical_Center",
+		"notes": "Le Viceroy Medical Center est un hôpital secondaire de Los Angeles.",
+		"wiki_ling": "",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "A7FFA7",
+		"fillcolor": "A7FFA7",
 		"latlngarray": [
 			{"lat": -68.741, "lng": -37.279},
 			{"lat": -69.352, "lng": -40.693},
