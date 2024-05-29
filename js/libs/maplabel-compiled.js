@@ -1,13 +1,26 @@
 /**
  * @license
  *
- * ...
+ * Copyright 2011 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
  */
 
 /**
  * @fileoverview Map Label.
  *
- * ...
+ * @author Luke Mahe (lukem@google.com),
+ *         Chris Broadfoot (cbro@google.com)
  */
 
 /**
@@ -30,6 +43,7 @@ MapLabel.prototype = new google.maps.OverlayView;
 
 window['MapLabel'] = MapLabel;
 
+
 /** @inheritDoc */
 MapLabel.prototype.changed = function(prop) {
   switch (prop) {
@@ -40,15 +54,11 @@ MapLabel.prototype.changed = function(prop) {
     case 'strokeColor':
     case 'align':
     case 'text':
-      this.drawCanvas_();
-      this.showPreview(); // Call the preview function after drawing the canvas
-      break;
+      return this.drawCanvas_();
     case 'maxZoom':
     case 'minZoom':
     case 'position':
-      this.draw();
-      this.showPreview(); // Call the preview function after drawing
-      break;
+      return this.draw();
   }
 };
 
@@ -195,34 +205,3 @@ MapLabel.prototype.onRemove = function() {
   }
 };
 MapLabel.prototype['onRemove'] = MapLabel.prototype.onRemove;
-
-/**
- * Show a preview of the label.
- */
-MapLabel.prototype.showPreview = function() {
-  var text = this.get('text');
-  var fontSize = this.get('fontSize');
-  var fontFamily = this.get('fontFamily');
-  var fontColor = this.get('fontColor');
-  var strokeColor = this.get('strokeColor');
-  var strokeWeight = this.get('strokeWeight');
-  var align = this.get('align');
-
-  if (text) {
-    alert('Preview:\n' +
-      'Text: ' + text + '\n' +
-      'Font Size: ' + fontSize + 'px\n' +
-      'Font Family: ' + fontFamily + '\n' +
-      'Font Color: ' + fontColor + '\n' +
-      'Stroke Color: ' + strokeColor + '\n' +
-      'Stroke Weight: ' + strokeWeight + 'px\n' +
-      'Align: ' + align);
-  }
-};
-
-// To use the MapLabel, you can instantiate it and set it on the map like this:
-// var mapLabel = new MapLabel({
-//   text: 'Hello, World!',
-//   position: new google.maps.LatLng(37.7749, -122.4194), // Example coordinates
-//   map: map // The Google Map object
-// });
