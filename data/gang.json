@@ -321,6 +321,21 @@
 			{"lat": -75.673, "lng": -8.172},
 			{"lat": -75.771, "lng": -7.634}
 		]
+	},
+	{
+		"title": "Free",
+		"notes": "Free",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "bcbcbc",
+		"fillcolor": "bcbcbc",
+		"latlngarray": [
+			{"lat": -72.595, "lng": -18.422},
+			{"lat": -73.145, "lng": -16.192},
+			{"lat": -74.006, "lng": -18.752},
+			{"lat": -73.734, "lng": -19.829},
+			{"lat": -73.104, "lng": -19.862}
+		]
 	}
  
 
