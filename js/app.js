@@ -141,12 +141,6 @@ $(function() {
 					enabled: true,
 					url: 'data/gang.json',
 				}),
-				new CategoryModel({
-					name: 'Gouvernement',
-					icon: 'radar/gouv.jpg',
-					enabled: true,
-					url: 'data/gov.json',
-				}),
 			]),
 		}),
 
