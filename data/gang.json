@@ -1,32 +1,18 @@
 [
 	{
-		"title": "West Side Pirus (🅿️)",
-		"notes": " Le gang Piru original a été fondé sur Piru Street à Compton (aka Bompton), les cliques principales étant la 134e et la 142e. Ils ont une clique avec les Campanella Park Pirus (CPP) qui sont situés à quelques blocs d'eux sur Rosecrans Avenue. Il convient de noter que la clique de la 134e rue (Foe Line) traverse Central Avenue en direction d'Enterprise Park, qui est également considéré comme leur territoire. Leurs principales querelles sont avec les gangs CPCC, MPCC, TPCC, OSCC, NBCC, SSCC, CVTF, CV155, B13 et ECC. Rappeurs : Kendrick Lamar, Kee Riches (R.I.P), Wallie The Sensei, Westside Boogie, Jay Worthy, Hitta J3, Bang Gotti",
+		"title": "",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -71.056, "lng": -10.482},
-			{"lat": -70.433, "lng": -9.054},
-			{"lat": -70.039, "lng": -8.823},
-			{"lat": -69.741, "lng": -8.812},
-			{"lat": -69.722, "lng": -9.087},
-			{"lat": -69.817, "lng": -9.867},
-			{"lat": -69.953, "lng": -10.833},
-			{"lat": -70.054, "lng": -11.526},
-			{"lat": -70.084, "lng": -11.965},
-			{"lat": -70.069, "lng": -12.613},
-			{"lat": -70.167, "lng": -12.558},
-			{"lat": -70.371, "lng": -12.196},
-			{"lat": -70.543, "lng": -11.954},
-			{"lat": -70.838, "lng": -11.602}
+
 		]
 	},
 	{
-		"title": "Rollin 90s Neighborhood Crips (🆖♿)",
-		"notes": "Également connu sous le nom de XC ou JO Gang (Jesse Owens), le RNC est situé dans le quartier de Gramercy Park et traîne principalement autour du Jesse Owens Park. RNC est principalement en conflit avec 83GC, leur rivalité avec 83GC remonte aux années 1980 et a conduit à la rupture entre les gangs NHC et GC dans la ville. Les Rollin' 90's, bien qu'étant un gang Crip, sont connus depuis quelques années pour intégrer de nombreux jeunes non noirs dans leur gang, et en particulier des jeunes hispaniques. RNC a fait la une des journaux locaux en 2017 lorsque Cameron « Milk » Terrell, un membre blanc aisé de 18 ans, et trois autres adolescents ont été accusés du meurtre d'un non-affilié pris par erreur pour un membre de 83GC. Ils sont également en conflit avec l'IFGB et les gangs Hoover. D'autres querelles les opposent aux BPS, NHP, APG, CMGB, 99MC, SGC, PJWC et F13. Rappeurs : Kid Cali Oso (R.I.P), Chiico, GoGettaKB, GoGettaEssco, Fat Jahk TGL, Meech Gotti, Baby Chapo, GMoneyDT.",
-		"order": 0,
+		"title": "",
+		"notes": "",
 		"strokecolor": "0000FF",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -34,8 +20,8 @@
 		]
 	},
 	{
-		"title": "52 Hoover Gangster Crips (5️⃣2️⃣♿🍊) ",
-		"notes": "Également connus sous le nom de Young Hoggs, ils sont le berceau du rappeur ScHoolBoy Q. Ils se sont regroupés avec 51TGC pour former 512GC et sont connus pour être le seul groupe de Hoover à revendiquer le Crip, tout en restant alliés au reste des Hoover. Le 43HCG était autrefois actif dans la zone située au nord de Vernon Avenue, aujourd'hui contrôlée par la clique Darcside des Rollin' 40's, qui sont les principaux rivaux du 52HGC. Bien qu'il soit depuis longtemps considéré comme inactif, le 43HCG est toujours revendiqué par les membres du HCG/HGC comme faisant partie de la grande carte 716/Hoover. Les autres adversaires sont les Rollin' 40's, 30's, 50's, 60's, 70's, 90's, 100's, HPB, et parfois STV43. Beaucoup de leurs jeunes membres sont d'origine hispanique (MOB). Rappeurs : ScHoolboy Q, T Rell, H Crown, SoTattedSharky, Swift Chapo, BMG Boca, BMG Dmack",
+		"title": "",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "ff822e",
 		"fillcolor": "ff822e",
@@ -52,12 +38,7 @@
 		"strokecolor": "8300FF",
 		"fillcolor": "8300FF",
 		"latlngarray": [
-			{"lat": -76.187, "lng": -6.144},
-			{"lat": -76.611, "lng": -7.715},
-			{"lat": -76.891, "lng": -6.513},
-			{"lat": -76.821, "lng": -6.315},
-			{"lat": -76.558, "lng": -6.678},
-			{"lat": -76.272, "lng": -5.700}
+
 		]
 	},
 	{
@@ -68,14 +49,7 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -75.040, "lng": -0.396},
-			{"lat": -74.955, "lng": -0.583},
-			{"lat": -74.854, "lng": -1.023},
-			{"lat": -74.620, "lng": -0.210},
-			{"lat": -74.409, "lng": -0.407},
-			{"lat": -74.447, "lng": 0.724},
-			{"lat": -74.791, "lng": 0.669},
-			{"lat": -75.006, "lng": 0.076}
+
 		]
 	},
 	{
@@ -87,13 +61,7 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -74.765, "lng": -1.402},
-			{"lat": -74.576, "lng": -0.786},
-			{"lat": -74.379, "lng": -0.940},
-			{"lat": -74.242, "lng": -0.743},
-			{"lat": -74.137, "lng": -1.698},
-			{"lat": -74.411, "lng": -2.028},
-			{"lat": -74.535, "lng": -2.434}
+
 		]
 	},
 	{
@@ -104,12 +72,7 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -74.240, "lng": -0.743},
-			{"lat": -74.138, "lng": -1.698},
-			{"lat": -74.023, "lng": -1.424},
-			{"lat": -73.706, "lng": -0.424},
-			{"lat": -73.801, "lng": 0.016},
-			{"lat": -74.008, "lng": -0.435}
+
 		]
 	},
 	{
@@ -120,11 +83,7 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -74.138, "lng": -1.698},
-			{"lat": -74.023, "lng": -1.424},
-			{"lat": -73.706, "lng": -0.424},
-			{"lat": -73.508, "lng": -1.255},
-			{"lat": -73.948, "lng": -2.584}
+
 		]
 	},
 	{
@@ -135,11 +94,7 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -74.138, "lng": -1.698},
-			{"lat": -73.948, "lng": -2.584},
-			{"lat": -74.270, "lng": -3.595},
-			{"lat": -74.515, "lng": -2.573},
-			{"lat": -74.395, "lng": -2.145}
+
 		]
 	},
 	{
@@ -150,10 +105,7 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -74.406, "lng": -4.004},
-			{"lat": -75.105, "lng": -6.278},
-			{"lat": -75.321, "lng": -5.322},
-			{"lat": -74.643, "lng": -2.938}
+
 		]
 	},
 	{
@@ -164,10 +116,7 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -74.892, "lng": -1.829},
-			{"lat": -75.512, "lng": -4.410},
-			{"lat": -75.321, "lng": -5.322},
-			{"lat": -74.643, "lng": -2.938}
+
 		]
 	},
 	{
@@ -178,13 +127,7 @@
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -74.986, "lng": -1.433},
-			{"lat": -75.051, "lng": -1.104},
-			{"lat": -75.365, "lng": -0.499},
-			{"lat": -75.580, "lng": -2.346},
-			{"lat": -75.616, "lng": -2.704},
-			{"lat": -75.690, "lng": -3.572},
-			{"lat": -75.603, "lng": -3.945}
+
 		]
 	},
 	{
@@ -195,13 +138,7 @@
 		"strokecolor": "8300FF",
 		"fillcolor": "8300FF",
 		"latlngarray": [
-			{"lat": -76.254, "lng": -2.539},
-			{"lat": -76.546, "lng": -1.331},
-			{"lat": -76.582, "lng": -1.529},
-			{"lat": -76.784, "lng": -2.287},
-			{"lat": -76.559, "lng": -3.429},
-			{"lat": -76.515, "lng": -3.232},
-			{"lat": -76.353, "lng": -2.924}
+
 		]
 	},
 	{
@@ -212,14 +149,7 @@
 		"strokecolor": "8300FF",
 		"fillcolor": "8300FF",
 		"latlngarray": [
-			{"lat": -76.273, "lng": -5.675},
-			{"lat": -76.519, "lng": -4.346},
-			{"lat": -76.638, "lng": -4.774},
-			{"lat": -76.812, "lng": -4.840},
-			{"lat": -77.024, "lng": -5.763},
-			{"lat": -76.890, "lng": -6.444},
-			{"lat": -76.817, "lng": -6.313},
-			{"lat": -76.565, "lng": -6.642}
+
 		]
 	},
 	{
@@ -230,14 +160,7 @@
 		"strokecolor": "8300FF",
 		"fillcolor": "8300FF",
 		"latlngarray": [
-			{"lat": -76.519, "lng": -4.346},
-			{"lat": -76.638, "lng": -4.774},
-			{"lat": -76.812, "lng": -4.840},
-			{"lat": -76.742, "lng": -4.379},
-			{"lat": -76.511, "lng": -3.489},
-			{"lat": -76.216, "lng": -2.984},
-			{"lat": -76.181, "lng": -3.511},
-			{"lat": -76.413, "lng": -3.961}
+
 		]
 	},
 	{
@@ -248,12 +171,7 @@
 		"strokecolor": "8300FF",
 		"fillcolor": "8300FF",
 		"latlngarray": [
-			{"lat": -76.367, "lng": -3.929},
-			{"lat": -76.181, "lng": -3.511},
-			{"lat": -76.434, "lng": -4.170},
-			{"lat": -76.110, "lng": -5.928},
-			{"lat": -75.753, "lng": -4.610},
-			{"lat": -76.081, "lng": -3.247}
+
 		]
 	},
 	{
@@ -264,13 +182,7 @@
 		"strokecolor": "8300FF",
 		"fillcolor": "8300FF",
 		"latlngarray": [
-			{"lat": -76.189, "lng": -6.909},
-			{"lat": -76.046, "lng": -7.766},
-			{"lat": -76.136, "lng": -7.985},
-			{"lat": -76.353, "lng": -8.886},
-			{"lat": -76.392, "lng": -8.919},
-			{"lat": -76.420, "lng": -8.623},
-			{"lat": -76.518, "lng": -8.117}
+
 		]
 	},
 	{
@@ -281,15 +193,7 @@
 		"strokecolor": "8300FF",
 		"fillcolor": "8300FF",
 		"latlngarray": [
-			{"lat": -76.046, "lng": -7.766},
-			{"lat": -76.136, "lng": -7.985},
-			{"lat": -76.353, "lng": -8.886},
-			{"lat": -76.371, "lng": -9.106},
-			{"lat": -76.327, "lng": -10.040},
-			{"lat": -76.225, "lng": -9.996},
-			{"lat": -76.007, "lng": -9.315},
-			{"lat": -75.695, "lng": -8.227},
-			{"lat": -75.881, "lng": -7.326}
+
 		]
 	},
 	{
@@ -300,11 +204,7 @@
 		"strokecolor": "8300FF",
 		"fillcolor": "8300FF",
 		"latlngarray": [
-			{"lat": -76.046, "lng": -7.766},
-			{"lat": -75.881, "lng": -7.326},
-			{"lat": -75.482, "lng": -5.865},
-			{"lat": -75.652, "lng": -5.019},
-			{"lat": -76.170, "lng": -6.865}
+
 		]
 	},
 	{
@@ -315,11 +215,7 @@
 		"strokecolor": "8300FF",
 		"fillcolor": "8300FF",
 		"latlngarray": [
-			{"lat": -75.881, "lng": -7.326},
-			{"lat": -75.482, "lng": -5.865},
-			{"lat": -75.277, "lng": -6.810},
-			{"lat": -75.673, "lng": -8.172},
-			{"lat": -75.771, "lng": -7.634}
+
 		]
 	},
 	{
@@ -330,11 +226,7 @@
 		"strokecolor": "000000",
 		"fillcolor": "000000",
 		"latlngarray": [
-			{"lat": -72.595, "lng": -18.422},
-			{"lat": -73.145, "lng": -16.192},
-			{"lat": -74.006, "lng": -18.752},
-			{"lat": -73.734, "lng": -19.829},
-			{"lat": -73.104, "lng": -19.862}
+
 		]
 	},
 	{
@@ -345,19 +237,7 @@
 		"strokecolor": "000000",
 		"fillcolor": "000000",
 		"latlngarray": [
-			{"lat": -74.145, "lng": -19.217},
-			{"lat": -74.300, "lng": -19.678},
-			{"lat": -74.363, "lng": -19.909},
-			{"lat": -74.061, "lng": -21.326},
-			{"lat": -73.997, "lng": -21.546},
-			{"lat": -73.979, "lng": -21.743},
-			{"lat": -73.716, "lng": -21.721},
-			{"lat": -73.386, "lng": -21.688},
-			{"lat": -72.896, "lng": -21.688},
-			{"lat": -72.234, "lng": -19.821},
-			{"lat": -72.454, "lng": -18.975},
-			{"lat": -73.037, "lng": -20.535},
-			{"lat": -73.824, "lng": -20.524}
+
 		]
 	},
 	{
@@ -368,11 +248,7 @@
 		"strokecolor": "000000",
 		"fillcolor": "000000",
 		"latlngarray": [
-			{"lat": -72.402, "lng": -17.839},
-			{"lat": -71.986, "lng": -16.675},
-			{"lat": -71.941, "lng": -14.762},
-			{"lat": -72.239, "lng": -13.619},
-			{"lat": -72.952, "lng": -15.641}
+
 		]
 	},
 	{
@@ -383,26 +259,7 @@
 		"strokecolor": "000000",
 		"fillcolor": "000000",
 		"latlngarray": [
-			{"lat": -72.263, "lng": -18.401},
-			{"lat": -71.908, "lng": -19.763},
-			{"lat": -71.595, "lng": -18.972},
-			{"lat": -71.543, "lng": -18.643},
-			{"lat": -71.512, "lng": -18.335},
-			{"lat": -71.498, "lng": -18.061},
-			{"lat": -71.505, "lng": -17.720},
-			{"lat": -71.505, "lng": -17.335},
-			{"lat": -71.501, "lng": -16.435},
-			{"lat": -71.501, "lng": -16.039},
-			{"lat": -71.442, "lng": -15.116},
-			{"lat": -71.428, "lng": -14.259},
-			{"lat": -71.417, "lng": -13.534},
-			{"lat": -71.302, "lng": -13.183},
-			{"lat": -71.064, "lng": -13.084},
-			{"lat": -71.068, "lng": -11.798},
-			{"lat": -71.245, "lng": -10.919},
-			{"lat": -72.071, "lng": -13.172},
-			{"lat": -71.733, "lng": -14.534},
-			{"lat": -71.785, "lng": -16.984}
+
 		]
 	}
 ]
