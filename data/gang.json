@@ -16,12 +16,21 @@
 		]
 	},
 	{
-		"title": "",
+		"title": "Denver Lane Bloods (DLB)",
 		"notes": "",
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1245093693606858823",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
-
+			{"lat": -71.674, "lng": -21.956},
+			{"lat": -71.667, "lng": -22.484},
+			{"lat": -72.105, "lng": -22.484},
+			{"lat": -72.359, "lng": -22.616},
+			{"lat": -72.604, "lng": -22.923},
+			{"lat": -73.550, "lng": -24.967},
+			{"lat": -73.921, "lng": -22.598},
+			{"lat": -74.425, "lng": -20.203},
+			{"lat": -73.149, "lng": -16.182}
 		]
 	},
 	{
