@@ -34,36 +34,65 @@
 		]
 	},
 	{
-		"title": "",
+		"title": "VARRIO LONGOS 13",
 		"notes": "",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1246872190570332180",
 		"order": 0,
-		"strokecolor": "ff822e",
-		"fillcolor": "ff822e",
+		"strokecolor": "008000",
+		"fillcolor": "008000",
 		"latlngarray": [
-
+			{"lat": -72.213, "lng": -48.230},
+			{"lat": -72.512, "lng": -49.636},
+			{"lat": -72.930, "lng": -48.648},
+			{"lat": -73.084, "lng": -48.296},
+			{"lat": -73.501, "lng": -47.285},
+			{"lat": -73.625, "lng": -47.000},
+			{"lat": -73.631, "lng": -47.022},
+			{"lat": -73.693, "lng": -46.868},
+			{"lat": -73.853, "lng": -46.450},
+			{"lat": -73.470, "lng": -44.824},
+			{"lat": -73.445, "lng": -45.066},
+			{"lat": -73.369, "lng": -45.352},
+			{"lat": -72.761, "lng": -46.934}
 
 		]
 	},
 	{
-		"title": "WATTS 1",
-		"notes": "soon...",
-		"wiki_link": "",
+		"title": "Eastside Black Bandit Crips",
+		"notes": "",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1246861480729645168",
 		"order": 0,
-		"strokecolor": "8300FF",
-		"fillcolor": "8300FF",
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
 		"latlngarray": [
-
+			{"lat": -67.996, "lng": -51.359},
+			{"lat": -68.198, "lng": -52.502},
+			{"lat": -68.247, "lng": -52.436},
+			{"lat": -69.109, "lng": -52.414},
+			{"lat": -69.172, "lng": -52.348},
+			{"lat": -68.841, "lng": -50.568},
+			{"lat": -68.746, "lng": -50.656}
 		]
 	},
 	{
-		"title": "Image 2",
-		"notes": "4",
-		"wiki_link": "",
+		"title": "Watts Grape Street",
+		"notes": "",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1245451896760832000",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8A2BE2",
+		"fillcolor": "8A2BE2",
 		"latlngarray": [
-
+			{"lat": -75.748, "lng": -4.596},
+			{"lat": -76.190, "lng": -2.816},
+			{"lat": -76.289, "lng": -3.190},
+			{"lat": -76.437, "lng": -3.495},
+			{"lat": -76.514, "lng": -3.759},
+			{"lat": -76.583, "lng": -3.982},
+			{"lat": -76.714, "lng": -4.492},
+			{"lat": -76.930, "lng": -5.444},
+			{"lat": -77.003, "lng": -5.884},
+			{"lat": -76.621, "lng": -7.727},
+			{"lat": -76.174, "lng": -6.162}
 		]
 	},
 	{
