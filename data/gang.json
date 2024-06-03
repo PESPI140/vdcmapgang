@@ -1,13 +1,18 @@
 [
 	{
-		"title": "",
+		"title": "83 Hoover Criminal Gang (Tiny Raskals)",
 		"notes": "",
-		"wiki_link": "",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1247306041528418456/1247306041528418456",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "ff7f00",
+		"fillcolor": "ff7f00",
 		"latlngarray": [
-
+			{"lat": -74.230, "lng": -8.267},
+			{"lat": -73.763, "lng": -6.795},
+			{"lat": -74.235, "lng": -4.752},
+			{"lat": -74.936, "lng": -7.059},
+			{"lat": -74.414, "lng": -9.454},
+			{"lat": -74.301, "lng": -8.970}
 		]
 	},
 	{
