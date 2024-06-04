@@ -133,8 +133,8 @@
 		"title": "Lennox 13 (LNX13)",
 		"wiki_link": "https://discord.com/channels/1230172213412630549/1245396767818780792",
 		"order": 0,
-		"strokecolor": "#87CEFA",
-		"fillcolor": "#87CEFA",
+		"strokecolor": "87CEFA",
+		"fillcolor": "87CEFA",
 		"latlngarray": [
 			{"lat": -72.336, "lng": -4.954},
 			{"lat": -71.664, "lng": -1.373},
