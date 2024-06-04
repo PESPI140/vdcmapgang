@@ -96,37 +96,58 @@
 		]
 	},
 	{
-		"type": "Image 2",
-		"title": "3",
-		"notes": "Free",
-		"wiki_link": "",
+		"title": "Rancho Varrio Grape",
+		"notes": "",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1247631762520019006",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "6614b8",
+		"fillcolor": "6614b8",
 		"latlngarray": [
-
+			{"lat": -75.290, "lng": 0.094},
+			{"lat": -75.186, "lng": 0.941},
+			{"lat": -74.920, "lng": 1.732},
+			{"lat": -74.165, "lng": 2.105},
+			{"lat": -73.899, "lng": 0.449},
+			{"lat": -74.009, "lng": 0.163},
+			{"lat": -74.397, "lng": -0.364},
+			{"lat": -74.608, "lng": -0.170},
+			{"lat": -74.856, "lng": -1.005},
+			{"lat": -74.961, "lng": -0.577}
 		]
 	},
 	{
-		"title": "Image 2",
-		"notes": "5",
-		"wiki_link": "",
+		"title": "051 Young Crips",
+		"notes": "",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1247654043820757123",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "00008B",
+		"fillcolor": "00008B",
 		"latlngarray": [
-
+			{"lat": -76.666, "lng": 8.179},
+			{"lat": -78.826, "lng": 7.287},
+			{"lat": -78.893, "lng": 10.859},
+			{"lat": -76.733, "lng": 11.748}
 		]
 	},
 	{
-		"title": "image 2",
-		"notes": "1",
-		"wiki_link": "",
+		"title": "Lennox 13 (LNX13)",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1245396767818780792",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "#87CEFA",
+		"fillcolor": "#87CEFA",
 		"latlngarray": [
-
+			{"lat": -72.336, "lng": -4.954},
+			{"lat": -71.664, "lng": -1.373},
+			{"lat": -71.701, "lng": -1.175},
+			{"lat": -71.701, "lng": 0.077},
+			{"lat": -71.914, "lng": -0.033},
+			{"lat": -72.171, "lng": -0.186},
+			{"lat": -72.205, "lng": -0.208},
+			{"lat": -72.359, "lng": -0.033},
+			{"lat": -72.398, "lng": 0.033},
+			{"lat": -72.674, "lng": -0.802},
+			{"lat": -73.027, "lng": -1.230},
+			{"lat": -73.174, "lng": -1.582}
 		]
 	},
 	{
