@@ -151,25 +151,36 @@
 		]
 	},
 	{
-		"title": "image 2",
-		"notes": "2",
-		"wiki_link": "",
+		"title": "145 Neighborhood Piru",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1246861480729645168",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-
+			{"lat": -73.635, "lng": -7.344},
+			{"lat": -73.975, "lng": -8.399},
+			{"lat": -73.706, "lng": -9.255},
+			{"lat": -74.102, "lng": -10.837},
+			{"lat": -74.704, "lng": -8.135},
+			{"lat": -73.975, "lng": -5.850}
 		]
 	},
 	{
-		"title": "image 3",
-		"notes": "1",
-		"wiki_link": "",
+		"title": "38st Krazy Kats",
+		"wiki_link": "https://discord.com/channels/1230172213412630549/1247967503569916085",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "000000",
+		"fillcolor": "000000",
 		"latlngarray": [
-
+			{"lat": -74.404, "lng": -3.967},
+			{"lat": -74.892, "lng": -1.792},
+			{"lat": -75.058, "lng": -1.066},
+			{"lat": -75.366, "lng": -0.473},
+			{"lat": -75.625, "lng": -2.736},
+			{"lat": -75.690, "lng": -3.571},
+			{"lat": -75.603, "lng": -3.945},
+			{"lat": -75.515, "lng": -4.406},
+			{"lat": -75.120, "lng": -6.252}
 		]
 	},
 	{
