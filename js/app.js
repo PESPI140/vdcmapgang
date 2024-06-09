@@ -141,6 +141,12 @@ $(function() {
 					enabled: true,
 					url: 'data/gang.json',
 				}),
+				new CategoryModel({
+					name: 'Event Mirror Park',
+					icon: 'radar/gang.png',
+					enabled: true,
+					url: 'data/event.json',
+				}),
 			]),
 		}),
 
